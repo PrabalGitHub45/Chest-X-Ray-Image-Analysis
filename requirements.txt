@@ -4,5 +4,7 @@ seaborn
 matplotlib
 tensorflow
 keras
-opencv-python
+cv2
+scikit-learn
 streamlit
+random
