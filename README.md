@@ -1,1 +1,1 @@
-# Chest-X-Ray-Image-Analysis
+# Chest X-Ray Image Analysis
