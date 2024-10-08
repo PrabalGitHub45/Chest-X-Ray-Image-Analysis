@@ -7,4 +7,3 @@ keras
 opencv-python
 scikit-learn
 streamlit
-random
