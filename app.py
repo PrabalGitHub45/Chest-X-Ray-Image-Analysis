@@ -162,5 +162,5 @@ st.write("""
 For more projects and insights, please visit my [portfolio](https://kimnguyen2002.github.io/Portfolio/).
 
 ### Code Repository
-You can find the complete code for this application in my GitHub repository [here]().
+You can find the complete code for this application in my GitHub repository [here](https://github.com/kimnguyen2002/Chest-X-Ray-Image-Analysis).
 """)
