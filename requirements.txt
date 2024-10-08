@@ -1,10 +1,9 @@
-pip install --upgrade pip
 numpy
 pandas
 seaborn
 matplotlib
 tensorflow
 keras
-opencv-python
+opencv-python-headless
 scikit-learn
 streamlit
