@@ -3,7 +3,9 @@
 ## Overview
 
 This Streamlit app analyzes chest X-ray images to detect potential abnormalities using a pre-trained DenseNet121 model. It provides a user-friendly interface for uploading and processing images, and it visualizes predictions with Grad-CAM.
+
 Check out the live Streamlit App [here](https://chestxrayanalysis.streamlit.app).
+
 ## Features
 
 - **Image Upload**: Accepts chest X-ray images in JPG, JPEG, or PNG format.
@@ -72,10 +74,4 @@ The model is based on DenseNet121 and is trained to identify 14 conditions:
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For more projects and information, visit my [portfolio](https://kimnguyen2002.github.io/Portfolio/).
-
-### Code Repository
-
-Find the complete code [here](https://github.com/kimnguyen2002/Chest-X-Ray-Image-Analysis).
+Feel free to adjust the structure to fit your actual project layout!
