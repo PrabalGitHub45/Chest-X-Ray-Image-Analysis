@@ -158,9 +158,7 @@ else:
 
 st.markdown("""---""")
 st.write("""
-### Portfolio
-For more projects and insights, please visit my [portfolio](https://kimnguyen2002.github.io/Portfolio/).
-
 ### Code Repository
-You can find the complete code for this application in my GitHub repository [here](https://github.com/kimnguyen2002/Chest-X-Ray-Image-Analysis).
+This app is made by Prabal Adhikari
+You can find the complete code for this application in my GitHub repository [here](https://github.com/PrabalGitHub45/Chest-X-Ray-Image-Analysis).
 """)
